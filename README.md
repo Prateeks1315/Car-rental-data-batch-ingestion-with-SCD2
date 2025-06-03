@@ -1,6 +1,7 @@
 # Car Rental Data Batch Ingestion with SCD Type 2 Implementation
 
-This project demonstrates a batch data ingestion pipeline for car rental data using Slowly Changing Dimension Type 2 (SCD2) methodology. The pipeline is designed to efficiently capture historical changes in data while preserving data integrity for accurate analysis.
+This project demonstrates a batch data ingestion pipeline for car rental data using Slowly Changing Dimension Type 2 (SCD2) methodology. 
+The pipeline is designed to efficiently capture historical changes in data while preserving data integrity for accurate analysis.
 
 ## 🎯 Objective
 
